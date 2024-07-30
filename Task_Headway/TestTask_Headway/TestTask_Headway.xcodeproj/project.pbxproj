@@ -1,0 +1,713 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 56;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		CEE41FA62C5108CF00377EF7 /* TestTask_HeadwayApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = CEE41FA52C5108CF00377EF7 /* TestTask_HeadwayApp.swift */; };
+		CEE41FA82C5108CF00377EF7 /* ChapterListenterView.swift in Sources */ = {isa = PBXBuildFile; fileRef = CEE41FA72C5108CF00377EF7 /* ChapterListenterView.swift */; };
+		CEE41FAA2C5108CF00377EF7 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = CEE41FA92C5108CF00377EF7 /* Assets.xcassets */; };
+		CEE41FAD2C5108CF00377EF7 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = CEE41FAC2C5108CF00377EF7 /* Preview Assets.xcassets */; };
+		CEE41FB82C5120CC00377EF7 /* BookSummaryView.swift in Sources */ = {isa = PBXBuildFile; fileRef = CEE41FB72C5120CC00377EF7 /* BookSummaryView.swift */; };
+		CEE41FBA2C5122B900377EF7 /* AudioPlayerView.swift in Sources */ = {isa = PBXBuildFile; fileRef = CEE41FB92C5122B900377EF7 /* AudioPlayerView.swift */; };
+		CEE41FC12C512C8C00377EF7 /* CustomSegmentControlView.swift in Sources */ = {isa = PBXBuildFile; fileRef = CEE41FC02C512C8C00377EF7 /* CustomSegmentControlView.swift */; };
+		CEE41FC82C52250500377EF7 /* ErrorProtocol.swift in Sources */ = {isa = PBXBuildFile; fileRef = CEE41FC72C52250500377EF7 /* ErrorProtocol.swift */; };
+		CEE41FCA2C52253200377EF7 /* Plugin.swift in Sources */ = {isa = PBXBuildFile; fileRef = CEE41FC92C52253200377EF7 /* Plugin.swift */; };
+		CEE41FCC2C52255300377EF7 /* RequestBuilder.swift in Sources */ = {isa = PBXBuildFile; fileRef = CEE41FCB2C52255300377EF7 /* RequestBuilder.swift */; };
+		CEE41FCF2C52259D00377EF7 /* RequestEncoding.swift in Sources */ = {isa = PBXBuildFile; fileRef = CEE41FCE2C52259D00377EF7 /* RequestEncoding.swift */; };
+		CEE41FD12C5225C400377EF7 /* MultiFormDataModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = CEE41FD02C5225C400377EF7 /* MultiFormDataModel.swift */; };
+		CEE41FD32C5225E200377EF7 /* HTTPMethods.swift in Sources */ = {isa = PBXBuildFile; fileRef = CEE41FD22C5225E200377EF7 /* HTTPMethods.swift */; };
+		CEE41FD62C52260400377EF7 /* FatalError.swift in Sources */ = {isa = PBXBuildFile; fileRef = CEE41FD52C52260400377EF7 /* FatalError.swift */; };
+		CEE41FD82C52261A00377EF7 /* NError.swift in Sources */ = {isa = PBXBuildFile; fileRef = CEE41FD72C52261A00377EF7 /* NError.swift */; };
+		CEE41FDC2C5226DC00377EF7 /* APIReachabilityManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = CEE41FDB2C5226DC00377EF7 /* APIReachabilityManager.swift */; };
+		CEE41FDE2C5226FD00377EF7 /* APIReachanilityManagerImp.swift in Sources */ = {isa = PBXBuildFile; fileRef = CEE41FDD2C5226FD00377EF7 /* APIReachanilityManagerImp.swift */; };
+		CEE41FE12C52272100377EF7 /* LogManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = CEE41FE02C52272100377EF7 /* LogManager.swift */; };
+		CEE41FE42C52274600377EF7 /* ErrorHandler.swift in Sources */ = {isa = PBXBuildFile; fileRef = CEE41FE32C52274600377EF7 /* ErrorHandler.swift */; };
+		CEE41FE62C52276100377EF7 /* ErrorHandlerImp.swift in Sources */ = {isa = PBXBuildFile; fileRef = CEE41FE52C52276100377EF7 /* ErrorHandlerImp.swift */; };
+		CEE41FE82C5227DB00377EF7 /* Provider.swift in Sources */ = {isa = PBXBuildFile; fileRef = CEE41FE72C5227DB00377EF7 /* Provider.swift */; };
+		CEE41FEA2C5227F500377EF7 /* ProviderProtocol.swift in Sources */ = {isa = PBXBuildFile; fileRef = CEE41FE92C5227F500377EF7 /* ProviderProtocol.swift */; };
+		CEE41FF52C522E5700377EF7 /* ChapterListView.swift in Sources */ = {isa = PBXBuildFile; fileRef = CEE41FF42C522E5700377EF7 /* ChapterListView.swift */; };
+		CEE41FF72C522E6800377EF7 /* ChapterCard.swift in Sources */ = {isa = PBXBuildFile; fileRef = CEE41FF62C522E6800377EF7 /* ChapterCard.swift */; };
+		CEE420012C525AE100377EF7 /* h-p-lovecraft_at-the-mountains-of-madness.epub in Resources */ = {isa = PBXBuildFile; fileRef = CEE420002C525AE100377EF7 /* h-p-lovecraft_at-the-mountains-of-madness.epub */; };
+		CEE4200C2C52859100377EF7 /* EPUBKit in Frameworks */ = {isa = PBXBuildFile; productRef = CEE4200B2C52859100377EF7 /* EPUBKit */; };
+		CEE4200F2C528BCA00377EF7 /* SwiftSoup in Frameworks */ = {isa = PBXBuildFile; productRef = CEE4200E2C528BCA00377EF7 /* SwiftSoup */; };
+		CEE420122C52A70100377EF7 /* AudioGenerationAPIBuilder.swift in Sources */ = {isa = PBXBuildFile; fileRef = CEE420112C52A70100377EF7 /* AudioGenerationAPIBuilder.swift */; };
+		CEE420142C52A98F00377EF7 /* AudioGenerationService.swift in Sources */ = {isa = PBXBuildFile; fileRef = CEE420132C52A98F00377EF7 /* AudioGenerationService.swift */; };
+		CEE420162C52A9DA00377EF7 /* AudioGenerationServiceImp.swift in Sources */ = {isa = PBXBuildFile; fileRef = CEE420152C52A9DA00377EF7 /* AudioGenerationServiceImp.swift */; };
+		CEE4201D2C550E9D00377EF7 /* BookFetcher.swift in Sources */ = {isa = PBXBuildFile; fileRef = CEE4201C2C550E9D00377EF7 /* BookFetcher.swift */; };
+		CEE420202C553EF200377EF7 /* BookViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = CEE4201F2C553EF200377EF7 /* BookViewModel.swift */; };
+		CEE420222C553EFA00377EF7 /* BookView.swift in Sources */ = {isa = PBXBuildFile; fileRef = CEE420212C553EFA00377EF7 /* BookView.swift */; };
+		CEE420242C553F0800377EF7 /* BookRouter.swift in Sources */ = {isa = PBXBuildFile; fileRef = CEE420232C553F0800377EF7 /* BookRouter.swift */; };
+		CEE420262C553F2500377EF7 /* BookModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = CEE420252C553F2500377EF7 /* BookModel.swift */; };
+		CEE4202D2C56BDC000377EF7 /* ContentViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = CEE4202C2C56BDC000377EF7 /* ContentViewModel.swift */; };
+		CEE4202F2C56BF2900377EF7 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = CEE4202E2C56BF2900377EF7 /* ContentView.swift */; };
+		CEE420322C57AB4E00377EF7 /* Router.swift in Sources */ = {isa = PBXBuildFile; fileRef = CEE420312C57AB4E00377EF7 /* Router.swift */; };
+		CEE420352C57FFD800377EF7 /* BookImageView.swift in Sources */ = {isa = PBXBuildFile; fileRef = CEE420342C57FFD800377EF7 /* BookImageView.swift */; };
+		CEE420372C58003300377EF7 /* BookInfoView.swift in Sources */ = {isa = PBXBuildFile; fileRef = CEE420362C58003300377EF7 /* BookInfoView.swift */; };
+		CEE420392C58006C00377EF7 /* BookControlsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = CEE420382C58006C00377EF7 /* BookControlsView.swift */; };
+		CEE4203C2C58024C00377EF7 /* Constants.swift in Sources */ = {isa = PBXBuildFile; fileRef = CEE4203B2C58024C00377EF7 /* Constants.swift */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXFileReference section */
+		CEE41FA22C5108CF00377EF7 /* TestTask_Headway.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = TestTask_Headway.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		CEE41FA52C5108CF00377EF7 /* TestTask_HeadwayApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TestTask_HeadwayApp.swift; sourceTree = "<group>"; };
+		CEE41FA72C5108CF00377EF7 /* ChapterListenterView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ChapterListenterView.swift; sourceTree = "<group>"; };
+		CEE41FA92C5108CF00377EF7 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		CEE41FAC2C5108CF00377EF7 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		CEE41FB72C5120CC00377EF7 /* BookSummaryView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BookSummaryView.swift; sourceTree = "<group>"; };
+		CEE41FB92C5122B900377EF7 /* AudioPlayerView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AudioPlayerView.swift; sourceTree = "<group>"; };
+		CEE41FC02C512C8C00377EF7 /* CustomSegmentControlView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CustomSegmentControlView.swift; sourceTree = "<group>"; };
+		CEE41FC72C52250500377EF7 /* ErrorProtocol.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ErrorProtocol.swift; sourceTree = "<group>"; };
+		CEE41FC92C52253200377EF7 /* Plugin.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Plugin.swift; sourceTree = "<group>"; };
+		CEE41FCB2C52255300377EF7 /* RequestBuilder.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RequestBuilder.swift; sourceTree = "<group>"; };
+		CEE41FCE2C52259D00377EF7 /* RequestEncoding.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RequestEncoding.swift; sourceTree = "<group>"; };
+		CEE41FD02C5225C400377EF7 /* MultiFormDataModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MultiFormDataModel.swift; sourceTree = "<group>"; };
+		CEE41FD22C5225E200377EF7 /* HTTPMethods.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HTTPMethods.swift; sourceTree = "<group>"; };
+		CEE41FD52C52260400377EF7 /* FatalError.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FatalError.swift; sourceTree = "<group>"; };
+		CEE41FD72C52261A00377EF7 /* NError.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NError.swift; sourceTree = "<group>"; };
+		CEE41FDB2C5226DC00377EF7 /* APIReachabilityManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = APIReachabilityManager.swift; sourceTree = "<group>"; };
+		CEE41FDD2C5226FD00377EF7 /* APIReachanilityManagerImp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = APIReachanilityManagerImp.swift; sourceTree = "<group>"; };
+		CEE41FE02C52272100377EF7 /* LogManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LogManager.swift; sourceTree = "<group>"; };
+		CEE41FE32C52274600377EF7 /* ErrorHandler.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ErrorHandler.swift; sourceTree = "<group>"; };
+		CEE41FE52C52276100377EF7 /* ErrorHandlerImp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ErrorHandlerImp.swift; sourceTree = "<group>"; };
+		CEE41FE72C5227DB00377EF7 /* Provider.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Provider.swift; sourceTree = "<group>"; };
+		CEE41FE92C5227F500377EF7 /* ProviderProtocol.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProviderProtocol.swift; sourceTree = "<group>"; };
+		CEE41FF42C522E5700377EF7 /* ChapterListView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ChapterListView.swift; sourceTree = "<group>"; };
+		CEE41FF62C522E6800377EF7 /* ChapterCard.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ChapterCard.swift; sourceTree = "<group>"; };
+		CEE420002C525AE100377EF7 /* h-p-lovecraft_at-the-mountains-of-madness.epub */ = {isa = PBXFileReference; lastKnownFileType = file; path = "h-p-lovecraft_at-the-mountains-of-madness.epub"; sourceTree = "<group>"; };
+		CEE420112C52A70100377EF7 /* AudioGenerationAPIBuilder.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AudioGenerationAPIBuilder.swift; sourceTree = "<group>"; };
+		CEE420132C52A98F00377EF7 /* AudioGenerationService.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AudioGenerationService.swift; sourceTree = "<group>"; };
+		CEE420152C52A9DA00377EF7 /* AudioGenerationServiceImp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AudioGenerationServiceImp.swift; sourceTree = "<group>"; };
+		CEE4201C2C550E9D00377EF7 /* BookFetcher.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BookFetcher.swift; sourceTree = "<group>"; };
+		CEE4201F2C553EF200377EF7 /* BookViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BookViewModel.swift; sourceTree = "<group>"; };
+		CEE420212C553EFA00377EF7 /* BookView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BookView.swift; sourceTree = "<group>"; };
+		CEE420232C553F0800377EF7 /* BookRouter.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BookRouter.swift; sourceTree = "<group>"; };
+		CEE420252C553F2500377EF7 /* BookModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = BookModel.swift; path = ../BookPreview/BookModel.swift; sourceTree = "<group>"; };
+		CEE4202C2C56BDC000377EF7 /* ContentViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentViewModel.swift; sourceTree = "<group>"; };
+		CEE4202E2C56BF2900377EF7 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
+		CEE420312C57AB4E00377EF7 /* Router.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Router.swift; sourceTree = "<group>"; };
+		CEE420342C57FFD800377EF7 /* BookImageView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BookImageView.swift; sourceTree = "<group>"; };
+		CEE420362C58003300377EF7 /* BookInfoView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BookInfoView.swift; sourceTree = "<group>"; };
+		CEE420382C58006C00377EF7 /* BookControlsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BookControlsView.swift; sourceTree = "<group>"; };
+		CEE4203B2C58024C00377EF7 /* Constants.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Constants.swift; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		CEE41F9F2C5108CF00377EF7 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				CEE4200C2C52859100377EF7 /* EPUBKit in Frameworks */,
+				CEE4200F2C528BCA00377EF7 /* SwiftSoup in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		CEE41F992C5108CF00377EF7 = {
+			isa = PBXGroup;
+			children = (
+				CEE420002C525AE100377EF7 /* h-p-lovecraft_at-the-mountains-of-madness.epub */,
+				CEE41FA42C5108CF00377EF7 /* TestTask_Headway */,
+				CEE41FA32C5108CF00377EF7 /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		CEE41FA32C5108CF00377EF7 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				CEE41FA22C5108CF00377EF7 /* TestTask_Headway.app */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		CEE41FA42C5108CF00377EF7 /* TestTask_Headway */ = {
+			isa = PBXGroup;
+			children = (
+				CEE420402C58D77300377EF7 /* BookFetcher */,
+				CEE4203A2C58023E00377EF7 /* Constants */,
+				CEE420302C57AB4200377EF7 /* Router */,
+				CEE420102C52A6DD00377EF7 /* AudioGeneration */,
+				CEE41FEB2C522D5300377EF7 /* Modules */,
+				CEE41FC42C5224BD00377EF7 /* AsyncAwaitNetworking */,
+				CEE41FA52C5108CF00377EF7 /* TestTask_HeadwayApp.swift */,
+				CEE41FA92C5108CF00377EF7 /* Assets.xcassets */,
+				CEE41FAB2C5108CF00377EF7 /* Preview Content */,
+			);
+			path = TestTask_Headway;
+			sourceTree = "<group>";
+		};
+		CEE41FAB2C5108CF00377EF7 /* Preview Content */ = {
+			isa = PBXGroup;
+			children = (
+				CEE41FAC2C5108CF00377EF7 /* Preview Assets.xcassets */,
+			);
+			path = "Preview Content";
+			sourceTree = "<group>";
+		};
+		CEE41FBB2C51241900377EF7 /* AudioPlayer */ = {
+			isa = PBXGroup;
+			children = (
+				CEE41FB92C5122B900377EF7 /* AudioPlayerView.swift */,
+			);
+			path = AudioPlayer;
+			sourceTree = "<group>";
+		};
+		CEE41FBE2C51289000377EF7 /* BookSummaryView */ = {
+			isa = PBXGroup;
+			children = (
+				CEE41FB72C5120CC00377EF7 /* BookSummaryView.swift */,
+			);
+			path = BookSummaryView;
+			sourceTree = "<group>";
+		};
+		CEE41FBF2C512C7700377EF7 /* SegmentControl */ = {
+			isa = PBXGroup;
+			children = (
+				CEE41FC02C512C8C00377EF7 /* CustomSegmentControlView.swift */,
+			);
+			path = SegmentControl;
+			sourceTree = "<group>";
+		};
+		CEE41FC42C5224BD00377EF7 /* AsyncAwaitNetworking */ = {
+			isa = PBXGroup;
+			children = (
+				CEE41FD92C52268C00377EF7 /* Managers */,
+				CEE41FCD2C52257E00377EF7 /* Models */,
+				CEE41FC62C5224F100377EF7 /* Protocols */,
+				CEE41FE72C5227DB00377EF7 /* Provider.swift */,
+				CEE41FE92C5227F500377EF7 /* ProviderProtocol.swift */,
+			);
+			path = AsyncAwaitNetworking;
+			sourceTree = "<group>";
+		};
+		CEE41FC62C5224F100377EF7 /* Protocols */ = {
+			isa = PBXGroup;
+			children = (
+				CEE41FC72C52250500377EF7 /* ErrorProtocol.swift */,
+				CEE41FC92C52253200377EF7 /* Plugin.swift */,
+				CEE41FCB2C52255300377EF7 /* RequestBuilder.swift */,
+			);
+			path = Protocols;
+			sourceTree = "<group>";
+		};
+		CEE41FCD2C52257E00377EF7 /* Models */ = {
+			isa = PBXGroup;
+			children = (
+				CEE41FD42C5225F200377EF7 /* Errors */,
+				CEE41FCE2C52259D00377EF7 /* RequestEncoding.swift */,
+				CEE41FD02C5225C400377EF7 /* MultiFormDataModel.swift */,
+				CEE41FD22C5225E200377EF7 /* HTTPMethods.swift */,
+			);
+			path = Models;
+			sourceTree = "<group>";
+		};
+		CEE41FD42C5225F200377EF7 /* Errors */ = {
+			isa = PBXGroup;
+			children = (
+				CEE41FD52C52260400377EF7 /* FatalError.swift */,
+				CEE41FD72C52261A00377EF7 /* NError.swift */,
+			);
+			path = Errors;
+			sourceTree = "<group>";
+		};
+		CEE41FD92C52268C00377EF7 /* Managers */ = {
+			isa = PBXGroup;
+			children = (
+				CEE41FE22C52273600377EF7 /* ErrorHandler */,
+				CEE41FDF2C52271300377EF7 /* LogManager */,
+				CEE41FDA2C5226AC00377EF7 /* ReachabilityManager */,
+			);
+			path = Managers;
+			sourceTree = "<group>";
+		};
+		CEE41FDA2C5226AC00377EF7 /* ReachabilityManager */ = {
+			isa = PBXGroup;
+			children = (
+				CEE41FDB2C5226DC00377EF7 /* APIReachabilityManager.swift */,
+				CEE41FDD2C5226FD00377EF7 /* APIReachanilityManagerImp.swift */,
+			);
+			path = ReachabilityManager;
+			sourceTree = "<group>";
+		};
+		CEE41FDF2C52271300377EF7 /* LogManager */ = {
+			isa = PBXGroup;
+			children = (
+				CEE41FE02C52272100377EF7 /* LogManager.swift */,
+			);
+			path = LogManager;
+			sourceTree = "<group>";
+		};
+		CEE41FE22C52273600377EF7 /* ErrorHandler */ = {
+			isa = PBXGroup;
+			children = (
+				CEE41FE32C52274600377EF7 /* ErrorHandler.swift */,
+				CEE41FE52C52276100377EF7 /* ErrorHandlerImp.swift */,
+			);
+			path = ErrorHandler;
+			sourceTree = "<group>";
+		};
+		CEE41FEB2C522D5300377EF7 /* Modules */ = {
+			isa = PBXGroup;
+			children = (
+				CEE4203D2C58069B00377EF7 /* Models */,
+				CEE4201E2C553ED700377EF7 /* BookPreview */,
+				CEE4202B2C56BCD300377EF7 /* ContentView */,
+			);
+			path = Modules;
+			sourceTree = "<group>";
+		};
+		CEE41FEC2C522DB400377EF7 /* ChapterList */ = {
+			isa = PBXGroup;
+			children = (
+				CEE41FF42C522E5700377EF7 /* ChapterListView.swift */,
+				CEE41FF62C522E6800377EF7 /* ChapterCard.swift */,
+			);
+			path = ChapterList;
+			sourceTree = "<group>";
+		};
+		CEE41FED2C522DBB00377EF7 /* ChapterListener */ = {
+			isa = PBXGroup;
+			children = (
+				CEE41FBB2C51241900377EF7 /* AudioPlayer */,
+				CEE41FBE2C51289000377EF7 /* BookSummaryView */,
+				CEE41FA72C5108CF00377EF7 /* ChapterListenterView.swift */,
+			);
+			path = ChapterListener;
+			sourceTree = "<group>";
+		};
+		CEE420102C52A6DD00377EF7 /* AudioGeneration */ = {
+			isa = PBXGroup;
+			children = (
+				CEE420112C52A70100377EF7 /* AudioGenerationAPIBuilder.swift */,
+				CEE420132C52A98F00377EF7 /* AudioGenerationService.swift */,
+				CEE420152C52A9DA00377EF7 /* AudioGenerationServiceImp.swift */,
+			);
+			path = AudioGeneration;
+			sourceTree = "<group>";
+		};
+		CEE4201E2C553ED700377EF7 /* BookPreview */ = {
+			isa = PBXGroup;
+			children = (
+				CEE420332C57FFAA00377EF7 /* BookSubviews */,
+				CEE4201F2C553EF200377EF7 /* BookViewModel.swift */,
+				CEE420212C553EFA00377EF7 /* BookView.swift */,
+				CEE420232C553F0800377EF7 /* BookRouter.swift */,
+			);
+			path = BookPreview;
+			sourceTree = "<group>";
+		};
+		CEE4202B2C56BCD300377EF7 /* ContentView */ = {
+			isa = PBXGroup;
+			children = (
+				CEE41FEC2C522DB400377EF7 /* ChapterList */,
+				CEE41FED2C522DBB00377EF7 /* ChapterListener */,
+				CEE41FBF2C512C7700377EF7 /* SegmentControl */,
+				CEE4202C2C56BDC000377EF7 /* ContentViewModel.swift */,
+				CEE4202E2C56BF2900377EF7 /* ContentView.swift */,
+			);
+			path = ContentView;
+			sourceTree = "<group>";
+		};
+		CEE420302C57AB4200377EF7 /* Router */ = {
+			isa = PBXGroup;
+			children = (
+				CEE420312C57AB4E00377EF7 /* Router.swift */,
+			);
+			path = Router;
+			sourceTree = "<group>";
+		};
+		CEE420332C57FFAA00377EF7 /* BookSubviews */ = {
+			isa = PBXGroup;
+			children = (
+				CEE420342C57FFD800377EF7 /* BookImageView.swift */,
+				CEE420362C58003300377EF7 /* BookInfoView.swift */,
+				CEE420382C58006C00377EF7 /* BookControlsView.swift */,
+			);
+			path = BookSubviews;
+			sourceTree = "<group>";
+		};
+		CEE4203A2C58023E00377EF7 /* Constants */ = {
+			isa = PBXGroup;
+			children = (
+				CEE4203B2C58024C00377EF7 /* Constants.swift */,
+			);
+			path = Constants;
+			sourceTree = "<group>";
+		};
+		CEE4203D2C58069B00377EF7 /* Models */ = {
+			isa = PBXGroup;
+			children = (
+				CEE420252C553F2500377EF7 /* BookModel.swift */,
+			);
+			path = Models;
+			sourceTree = "<group>";
+		};
+		CEE420402C58D77300377EF7 /* BookFetcher */ = {
+			isa = PBXGroup;
+			children = (
+				CEE4201C2C550E9D00377EF7 /* BookFetcher.swift */,
+			);
+			path = BookFetcher;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		CEE41FA12C5108CF00377EF7 /* TestTask_Headway */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = CEE41FB02C5108CF00377EF7 /* Build configuration list for PBXNativeTarget "TestTask_Headway" */;
+			buildPhases = (
+				CEE41F9E2C5108CF00377EF7 /* Sources */,
+				CEE41F9F2C5108CF00377EF7 /* Frameworks */,
+				CEE41FA02C5108CF00377EF7 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = TestTask_Headway;
+			packageProductDependencies = (
+				CEE4200B2C52859100377EF7 /* EPUBKit */,
+				CEE4200E2C528BCA00377EF7 /* SwiftSoup */,
+			);
+			productName = TestTask_Headway;
+			productReference = CEE41FA22C5108CF00377EF7 /* TestTask_Headway.app */;
+			productType = "com.apple.product-type.application";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		CEE41F9A2C5108CF00377EF7 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				BuildIndependentTargetsInParallel = 1;
+				LastSwiftUpdateCheck = 1500;
+				LastUpgradeCheck = 1500;
+				TargetAttributes = {
+					CEE41FA12C5108CF00377EF7 = {
+						CreatedOnToolsVersion = 15.0;
+					};
+				};
+			};
+			buildConfigurationList = CEE41F9D2C5108CF00377EF7 /* Build configuration list for PBXProject "TestTask_Headway" */;
+			compatibilityVersion = "Xcode 14.0";
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = CEE41F992C5108CF00377EF7;
+			packageReferences = (
+				CEE4200A2C52859100377EF7 /* XCRemoteSwiftPackageReference "EPUBKit" */,
+				CEE4200D2C528BCA00377EF7 /* XCRemoteSwiftPackageReference "SwiftSoup" */,
+			);
+			productRefGroup = CEE41FA32C5108CF00377EF7 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				CEE41FA12C5108CF00377EF7 /* TestTask_Headway */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		CEE41FA02C5108CF00377EF7 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				CEE420012C525AE100377EF7 /* h-p-lovecraft_at-the-mountains-of-madness.epub in Resources */,
+				CEE41FAD2C5108CF00377EF7 /* Preview Assets.xcassets in Resources */,
+				CEE41FAA2C5108CF00377EF7 /* Assets.xcassets in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		CEE41F9E2C5108CF00377EF7 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				CEE41FEA2C5227F500377EF7 /* ProviderProtocol.swift in Sources */,
+				CEE420222C553EFA00377EF7 /* BookView.swift in Sources */,
+				CEE41FE12C52272100377EF7 /* LogManager.swift in Sources */,
+				CEE420352C57FFD800377EF7 /* BookImageView.swift in Sources */,
+				CEE41FD82C52261A00377EF7 /* NError.swift in Sources */,
+				CEE41FE42C52274600377EF7 /* ErrorHandler.swift in Sources */,
+				CEE41FCA2C52253200377EF7 /* Plugin.swift in Sources */,
+				CEE420392C58006C00377EF7 /* BookControlsView.swift in Sources */,
+				CEE420202C553EF200377EF7 /* BookViewModel.swift in Sources */,
+				CEE41FDE2C5226FD00377EF7 /* APIReachanilityManagerImp.swift in Sources */,
+				CEE41FD12C5225C400377EF7 /* MultiFormDataModel.swift in Sources */,
+				CEE41FB82C5120CC00377EF7 /* BookSummaryView.swift in Sources */,
+				CEE41FA82C5108CF00377EF7 /* ChapterListenterView.swift in Sources */,
+				CEE41FC82C52250500377EF7 /* ErrorProtocol.swift in Sources */,
+				CEE41FF52C522E5700377EF7 /* ChapterListView.swift in Sources */,
+				CEE41FC12C512C8C00377EF7 /* CustomSegmentControlView.swift in Sources */,
+				CEE4202F2C56BF2900377EF7 /* ContentView.swift in Sources */,
+				CEE41FE62C52276100377EF7 /* ErrorHandlerImp.swift in Sources */,
+				CEE420322C57AB4E00377EF7 /* Router.swift in Sources */,
+				CEE41FD32C5225E200377EF7 /* HTTPMethods.swift in Sources */,
+				CEE420122C52A70100377EF7 /* AudioGenerationAPIBuilder.swift in Sources */,
+				CEE420372C58003300377EF7 /* BookInfoView.swift in Sources */,
+				CEE41FCC2C52255300377EF7 /* RequestBuilder.swift in Sources */,
+				CEE41FA62C5108CF00377EF7 /* TestTask_HeadwayApp.swift in Sources */,
+				CEE41FCF2C52259D00377EF7 /* RequestEncoding.swift in Sources */,
+				CEE4201D2C550E9D00377EF7 /* BookFetcher.swift in Sources */,
+				CEE4202D2C56BDC000377EF7 /* ContentViewModel.swift in Sources */,
+				CEE41FE82C5227DB00377EF7 /* Provider.swift in Sources */,
+				CEE420162C52A9DA00377EF7 /* AudioGenerationServiceImp.swift in Sources */,
+				CEE41FF72C522E6800377EF7 /* ChapterCard.swift in Sources */,
+				CEE420142C52A98F00377EF7 /* AudioGenerationService.swift in Sources */,
+				CEE420262C553F2500377EF7 /* BookModel.swift in Sources */,
+				CEE41FD62C52260400377EF7 /* FatalError.swift in Sources */,
+				CEE41FDC2C5226DC00377EF7 /* APIReachabilityManager.swift in Sources */,
+				CEE41FBA2C5122B900377EF7 /* AudioPlayerView.swift in Sources */,
+				CEE4203C2C58024C00377EF7 /* Constants.swift in Sources */,
+				CEE420242C553F0800377EF7 /* BookRouter.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin XCBuildConfiguration section */
+		CEE41FAE2C5108CF00377EF7 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ASSETCATALOG_COMPILER_GENERATE_SWIFT_ASSET_SYMBOL_EXTENSIONS = YES;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				ENABLE_USER_SCRIPT_SANDBOXING = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu17;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 17.0;
+				LOCALIZATION_PREFERS_STRING_CATALOGS = YES;
+				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
+				MTL_FAST_MATH = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "DEBUG $(inherited)";
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+			};
+			name = Debug;
+		};
+		CEE41FAF2C5108CF00377EF7 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ASSETCATALOG_COMPILER_GENERATE_SWIFT_ASSET_SYMBOL_EXTENSIONS = YES;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_USER_SCRIPT_SANDBOXING = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu17;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 17.0;
+				LOCALIZATION_PREFERS_STRING_CATALOGS = YES;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				MTL_FAST_MATH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_COMPILATION_MODE = wholemodule;
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		CEE41FB12C5108CF00377EF7 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_ASSET_PATHS = "\"TestTask_Headway/Preview Content\"";
+				DEVELOPMENT_TEAM = 9QB58GM7RP;
+				ENABLE_PREVIEWS = YES;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
+				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
+				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "com.yehorH.TestTask-Headway";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
+		CEE41FB22C5108CF00377EF7 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_ASSET_PATHS = "\"TestTask_Headway/Preview Content\"";
+				DEVELOPMENT_TEAM = 9QB58GM7RP;
+				ENABLE_PREVIEWS = YES;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
+				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
+				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "com.yehorH.TestTask-Headway";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		CEE41F9D2C5108CF00377EF7 /* Build configuration list for PBXProject "TestTask_Headway" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				CEE41FAE2C5108CF00377EF7 /* Debug */,
+				CEE41FAF2C5108CF00377EF7 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		CEE41FB02C5108CF00377EF7 /* Build configuration list for PBXNativeTarget "TestTask_Headway" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				CEE41FB12C5108CF00377EF7 /* Debug */,
+				CEE41FB22C5108CF00377EF7 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+
+/* Begin XCRemoteSwiftPackageReference section */
+		CEE4200A2C52859100377EF7 /* XCRemoteSwiftPackageReference "EPUBKit" */ = {
+			isa = XCRemoteSwiftPackageReference;
+			repositoryURL = "https://github.com/witekbobrowski/EPUBKit.git";
+			requirement = {
+				kind = upToNextMajorVersion;
+				minimumVersion = 0.4.0;
+			};
+		};
+		CEE4200D2C528BCA00377EF7 /* XCRemoteSwiftPackageReference "SwiftSoup" */ = {
+			isa = XCRemoteSwiftPackageReference;
+			repositoryURL = "https://github.com/scinfu/SwiftSoup.git";
+			requirement = {
+				kind = upToNextMajorVersion;
+				minimumVersion = 2.7.2;
+			};
+		};
+/* End XCRemoteSwiftPackageReference section */
+
+/* Begin XCSwiftPackageProductDependency section */
+		CEE4200B2C52859100377EF7 /* EPUBKit */ = {
+			isa = XCSwiftPackageProductDependency;
+			package = CEE4200A2C52859100377EF7 /* XCRemoteSwiftPackageReference "EPUBKit" */;
+			productName = EPUBKit;
+		};
+		CEE4200E2C528BCA00377EF7 /* SwiftSoup */ = {
+			isa = XCSwiftPackageProductDependency;
+			package = CEE4200D2C528BCA00377EF7 /* XCRemoteSwiftPackageReference "SwiftSoup" */;
+			productName = SwiftSoup;
+		};
+/* End XCSwiftPackageProductDependency section */
+	};
+	rootObject = CEE41F9A2C5108CF00377EF7 /* Project object */;
+}

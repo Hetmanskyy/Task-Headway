@@ -1,0 +1,1759 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "D29DB724-E6E4-40E6-9EFB-17A3F4911B0C"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "E078AF3D-1DCA-481E-816C-97CC8035E421"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TestTask_Headway/FetchAudiobookData.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "17"
+            endingLineNumber = "17"
+            landmarkName = "fetchAudiobookData(isbn:completion:)"
+            landmarkType = "9">
+            <Locations>
+               <Location
+                  uuid = "E078AF3D-1DCA-481E-816C-97CC8035E421 - 3e27f9a50789ea2"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in TestTask_Headway.fetchAudiobookData(isbn: Swift.String, completion: (Swift.Optional&lt;TestTask_Headway.Audiobook&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "TestTask_Headway"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/user/Desktop/TestTask_Headway/TestTask_Headway/FetchAudiobookData.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "17"
+                  endingLineNumber = "17"
+                  offsetFromSymbolStart = "136">
+               </Location>
+               <Location
+                  uuid = "E078AF3D-1DCA-481E-816C-97CC8035E421 - 3e27f9a50789ea2"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in TestTask_Headway.fetchAudiobookData(isbn: Swift.String, completion: (Swift.Optional&lt;TestTask_Headway.Audiobook&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "TestTask_Headway"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/user/Desktop/TestTask_Headway/TestTask_Headway/FetchAudiobookData.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "17"
+                  endingLineNumber = "17"
+                  offsetFromSymbolStart = "224">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "A8704578-50D0-4B87-8FA7-06ACAB984948"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TestTask_Headway/FetchAudiobookData.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "19"
+            endingLineNumber = "19"
+            landmarkName = "fetchAudiobookData(isbn:completion:)"
+            landmarkType = "9">
+            <Locations>
+               <Location
+                  uuid = "A8704578-50D0-4B87-8FA7-06ACAB984948 - 3e27f9a50789ee0"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in TestTask_Headway.fetchAudiobookData(isbn: Swift.String, completion: (Swift.Optional&lt;TestTask_Headway.Audiobook&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "TestTask_Headway"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/user/Desktop/TestTask_Headway/TestTask_Headway/FetchAudiobookData.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "19"
+                  endingLineNumber = "19"
+                  offsetFromSymbolStart = "896">
+               </Location>
+               <Location
+                  uuid = "A8704578-50D0-4B87-8FA7-06ACAB984948 - 3e27f9a50789ee0"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in TestTask_Headway.fetchAudiobookData(isbn: Swift.String, completion: (Swift.Optional&lt;TestTask_Headway.Audiobook&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "TestTask_Headway"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/user/Desktop/TestTask_Headway/TestTask_Headway/FetchAudiobookData.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "19"
+                  endingLineNumber = "19"
+                  offsetFromSymbolStart = "904">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "3D45A50A-F923-4DF1-A748-7FF1A4D05EEA"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TestTask_Headway/FetchAudiobookData.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "27"
+            endingLineNumber = "27"
+            landmarkName = "fetchAudiobookData(isbn:completion:)"
+            landmarkType = "9">
+            <Locations>
+               <Location
+                  uuid = "3D45A50A-F923-4DF1-A748-7FF1A4D05EEA - 3e27f9a50789df8"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in TestTask_Headway.fetchAudiobookData(isbn: Swift.String, completion: (Swift.Optional&lt;TestTask_Headway.Audiobook&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "TestTask_Headway"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/user/Desktop/TestTask_Headway/TestTask_Headway/FetchAudiobookData.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "27"
+                  endingLineNumber = "27"
+                  offsetFromSymbolStart = "960">
+               </Location>
+               <Location
+                  uuid = "3D45A50A-F923-4DF1-A748-7FF1A4D05EEA - 3e27f9a50789df8"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in TestTask_Headway.fetchAudiobookData(isbn: Swift.String, completion: (Swift.Optional&lt;TestTask_Headway.Audiobook&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "TestTask_Headway"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/user/Desktop/TestTask_Headway/TestTask_Headway/FetchAudiobookData.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "27"
+                  endingLineNumber = "27"
+                  offsetFromSymbolStart = "968">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "CD7F6AAB-2E34-47A1-BF07-AA425F792F37"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TestTask_Headway/FetchAudiobookData.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "115"
+            endingLineNumber = "115"
+            landmarkName = "body"
+            landmarkType = "24">
+            <Locations>
+               <Location
+                  uuid = "CD7F6AAB-2E34-47A1-BF07-AA425F792F37 - 1ebebe438fa534fd"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;TestTask_Headway.Audiobook&gt;) -&gt; () in closure #2 () -&gt; () in closure #1 () -&gt; SwiftUI._ConditionalContent&lt;SwiftUI.TupleView&lt;(&lt;&lt;opaque return type of SwiftUI.View.padding(SwiftUI.Edge.Set, Swift.Optional&lt;CoreGraphics.CGFloat&gt;) -&gt; some&gt;&gt;.0, Swift.Optional&lt;&lt;&lt;opaque return type of SwiftUI.View.padding(SwiftUI.Edge.Set, Swift.Optional&lt;CoreGraphics.CGFloat&gt;) -&gt; some&gt;&gt;.0&gt;, SwiftUI.List&lt;Swift.Never, SwiftUI.ForEach&lt;Swift.Array&lt;TestTask_Headway.Chapter&gt;, Swift.Int, SwiftUI.HStack&lt;SwiftUI.TupleView&lt;(SwiftUI.Text, SwiftUI.Text, SwiftUI.Spacer, SwiftUI.Text)&gt;&gt;&gt;&gt;)&gt;, &lt;&lt;opaque return type of SwiftUI.View.onAppear(perform: Swift.Optional&lt;() -&gt; ()&gt;) -&gt; some&gt;&gt;.0&gt; in TestTask_Headway.AudiobookView.body.getter : some"
+                  moduleName = "TestTask_Headway"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/user/Desktop/TestTask_Headway/TestTask_Headway/FetchAudiobookData.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "115"
+                  endingLineNumber = "115"
+                  offsetFromSymbolStart = "52">
+               </Location>
+               <Location
+                  uuid = "CD7F6AAB-2E34-47A1-BF07-AA425F792F37 - f4eecfd1d6040961"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #2 () -&gt; () in closure #1 () -&gt; SwiftUI._ConditionalContent&lt;SwiftUI.TupleView&lt;(&lt;&lt;opaque return type of SwiftUI.View.padding(SwiftUI.Edge.Set, Swift.Optional&lt;CoreGraphics.CGFloat&gt;) -&gt; some&gt;&gt;.0, Swift.Optional&lt;&lt;&lt;opaque return type of SwiftUI.View.padding(SwiftUI.Edge.Set, Swift.Optional&lt;CoreGraphics.CGFloat&gt;) -&gt; some&gt;&gt;.0&gt;, SwiftUI.List&lt;Swift.Never, SwiftUI.ForEach&lt;Swift.Array&lt;TestTask_Headway.Chapter&gt;, Swift.Int, SwiftUI.HStack&lt;SwiftUI.TupleView&lt;(SwiftUI.Text, SwiftUI.Text, SwiftUI.Spacer, SwiftUI.Text)&gt;&gt;&gt;&gt;)&gt;, &lt;&lt;opaque return type of SwiftUI.View.onAppear(perform: Swift.Optional&lt;() -&gt; ()&gt;) -&gt; some&gt;&gt;.0&gt; in TestTask_Headway.AudiobookView.body.getter : some"
+                  moduleName = "TestTask_Headway"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/user/Desktop/TestTask_Headway/TestTask_Headway/FetchAudiobookData.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "115"
+                  endingLineNumber = "115"
+                  offsetFromSymbolStart = "44">
+               </Location>
+               <Location
+                  uuid = "CD7F6AAB-2E34-47A1-BF07-AA425F792F37 - 1ebebe438fa5349a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;TestTask_Headway.Audiobook&gt;) -&gt; () in closure #2 () -&gt; () in closure #1 () -&gt; SwiftUI._ConditionalContent&lt;SwiftUI.TupleView&lt;(&lt;&lt;opaque return type of SwiftUI.View.padding(SwiftUI.Edge.Set, Swift.Optional&lt;CoreGraphics.CGFloat&gt;) -&gt; some&gt;&gt;.0, Swift.Optional&lt;&lt;&lt;opaque return type of SwiftUI.View.padding(SwiftUI.Edge.Set, Swift.Optional&lt;CoreGraphics.CGFloat&gt;) -&gt; some&gt;&gt;.0&gt;, SwiftUI.List&lt;Swift.Never, SwiftUI.ForEach&lt;Swift.Array&lt;TestTask_Headway.Chapter&gt;, Swift.Int, SwiftUI.HStack&lt;SwiftUI.TupleView&lt;(SwiftUI.Text, SwiftUI.Text, SwiftUI.Spacer, SwiftUI.Text)&gt;&gt;&gt;&gt;)&gt;, &lt;&lt;opaque return type of SwiftUI.View.onAppear(perform: Swift.Optional&lt;() -&gt; ()&gt;) -&gt; some&gt;&gt;.0&gt; in TestTask_Headway.AudiobookView.body.getter : some"
+                  moduleName = "TestTask_Headway"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/user/Desktop/TestTask_Headway/TestTask_Headway/FetchAudiobookData.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "116"
+                  endingLineNumber = "116"
+                  offsetFromSymbolStart = "52">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "0D352E32-7036-4BF4-A0E4-C02B933E8543"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TestTask_Headway/FetchAudiobookData.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "42"
+            endingLineNumber = "42"
+            landmarkName = "fetchChapters(bookId:completion:)"
+            landmarkType = "9">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "2155D451-53AB-4CC3-A110-A58A387D4F16"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TestTask_Headway/FetchAudiobookData.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "50"
+            endingLineNumber = "50"
+            landmarkName = "fetchChapters(bookId:completion:)"
+            landmarkType = "9">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "D145FEC6-5C59-420D-A50D-D65DAF3955FC"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TestTask_Headway/FetchAudiobookData.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "48"
+            endingLineNumber = "48"
+            landmarkName = "fetchChapters(bookId:completion:)"
+            landmarkType = "9">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "DCF6109D-BD8D-455D-90D6-8AA2BF72129E"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TestTask_Headway/FetchAudiobookData.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "25"
+            endingLineNumber = "25"
+            landmarkName = "fetchAudiobookData(isbn:completion:)"
+            landmarkType = "9">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "706F00B7-D677-4405-8C6F-6C92D885932B"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TestTask_Headway/FetchAudiobookData.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "120"
+            endingLineNumber = "120"
+            landmarkName = "body"
+            landmarkType = "24">
+            <Locations>
+               <Location
+                  uuid = "706F00B7-D677-4405-8C6F-6C92D885932B - fc99820ce701c24"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;Swift.Array&lt;TestTask_Headway.Chapter&gt;&gt;) -&gt; () in closure #1 (Swift.Optional&lt;TestTask_Headway.Audiobook&gt;) -&gt; () in closure #2 () -&gt; () in closure #1 () -&gt; SwiftUI._ConditionalContent&lt;SwiftUI.TupleView&lt;(&lt;&lt;opaque return type of SwiftUI.View.padding(SwiftUI.Edge.Set, Swift.Optional&lt;CoreGraphics.CGFloat&gt;) -&gt; some&gt;&gt;.0, Swift.Optional&lt;&lt;&lt;opaque return type of SwiftUI.View.padding(SwiftUI.Edge.Set, Swift.Optional&lt;CoreGraphics.CGFloat&gt;) -&gt; some&gt;&gt;.0&gt;, SwiftUI.List&lt;Swift.Never, SwiftUI.ForEach&lt;Swift.Array&lt;TestTask_Headway.Chapter&gt;, Swift.Int, SwiftUI.HStack&lt;SwiftUI.TupleView&lt;(SwiftUI.Text, SwiftUI.Text, SwiftUI.Spacer, SwiftUI.Text)&gt;&gt;&gt;&gt;)&gt;, &lt;&lt;opaque return type of SwiftUI.View.onAppear(perform: Swift.Optional&lt;() -&gt; ()&gt;) -&gt; some&gt;&gt;.0&gt; in TestTask_Headway.AudiobookView.body.getter : some"
+                  moduleName = "TestTask_Headway"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/user/Desktop/TestTask_Headway/TestTask_Headway/FetchAudiobookData.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "120"
+                  endingLineNumber = "120"
+                  offsetFromSymbolStart = "44">
+               </Location>
+               <Location
+                  uuid = "706F00B7-D677-4405-8C6F-6C92D885932B - 1ebebe438fa53406"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;TestTask_Headway.Audiobook&gt;) -&gt; () in closure #2 () -&gt; () in closure #1 () -&gt; SwiftUI._ConditionalContent&lt;SwiftUI.TupleView&lt;(&lt;&lt;opaque return type of SwiftUI.View.padding(SwiftUI.Edge.Set, Swift.Optional&lt;CoreGraphics.CGFloat&gt;) -&gt; some&gt;&gt;.0, Swift.Optional&lt;&lt;&lt;opaque return type of SwiftUI.View.padding(SwiftUI.Edge.Set, Swift.Optional&lt;CoreGraphics.CGFloat&gt;) -&gt; some&gt;&gt;.0&gt;, SwiftUI.List&lt;Swift.Never, SwiftUI.ForEach&lt;Swift.Array&lt;TestTask_Headway.Chapter&gt;, Swift.Int, SwiftUI.HStack&lt;SwiftUI.TupleView&lt;(SwiftUI.Text, SwiftUI.Text, SwiftUI.Spacer, SwiftUI.Text)&gt;&gt;&gt;&gt;)&gt;, &lt;&lt;opaque return type of SwiftUI.View.onAppear(perform: Swift.Optional&lt;() -&gt; ()&gt;) -&gt; some&gt;&gt;.0&gt; in TestTask_Headway.AudiobookView.body.getter : some"
+                  moduleName = "TestTask_Headway"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/user/Desktop/TestTask_Headway/TestTask_Headway/FetchAudiobookData.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "120"
+                  endingLineNumber = "120"
+                  offsetFromSymbolStart = "476">
+               </Location>
+               <Location
+                  uuid = "706F00B7-D677-4405-8C6F-6C92D885932B - fc99820ce701c05"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;Swift.Array&lt;TestTask_Headway.Chapter&gt;&gt;) -&gt; () in closure #1 (Swift.Optional&lt;TestTask_Headway.Audiobook&gt;) -&gt; () in closure #2 () -&gt; () in closure #1 () -&gt; SwiftUI._ConditionalContent&lt;SwiftUI.TupleView&lt;(&lt;&lt;opaque return type of SwiftUI.View.padding(SwiftUI.Edge.Set, Swift.Optional&lt;CoreGraphics.CGFloat&gt;) -&gt; some&gt;&gt;.0, Swift.Optional&lt;&lt;&lt;opaque return type of SwiftUI.View.padding(SwiftUI.Edge.Set, Swift.Optional&lt;CoreGraphics.CGFloat&gt;) -&gt; some&gt;&gt;.0&gt;, SwiftUI.List&lt;Swift.Never, SwiftUI.ForEach&lt;Swift.Array&lt;TestTask_Headway.Chapter&gt;, Swift.Int, SwiftUI.HStack&lt;SwiftUI.TupleView&lt;(SwiftUI.Text, SwiftUI.Text, SwiftUI.Spacer, SwiftUI.Text)&gt;&gt;&gt;&gt;)&gt;, &lt;&lt;opaque return type of SwiftUI.View.onAppear(perform: Swift.Optional&lt;() -&gt; ()&gt;) -&gt; some&gt;&gt;.0&gt; in TestTask_Headway.AudiobookView.body.getter : some"
+                  moduleName = "TestTask_Headway"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/user/Desktop/TestTask_Headway/TestTask_Headway/FetchAudiobookData.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "121"
+                  endingLineNumber = "121"
+                  offsetFromSymbolStart = "44">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "6EDFA49D-045A-433B-AC75-BE2EFD48C2F2"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TestTask_Headway/Modules/ChapterList/Test.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "55"
+            endingLineNumber = "55"
+            landmarkName = "loadEPUB()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "6EDFA49D-045A-433B-AC75-BE2EFD48C2F2 - cd548f1ac2a14507"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TestTask_Headway.TestView.loadEPUB() -&gt; ()"
+                  moduleName = "TestTask_Headway"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/user/Desktop/TestTask_Headway/TestTask_Headway/Modules/ChapterList/Test.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "54"
+                  endingLineNumber = "54"
+                  offsetFromSymbolStart = "1492">
+               </Location>
+               <Location
+                  uuid = "6EDFA49D-045A-433B-AC75-BE2EFD48C2F2 - cd548f1ac2a14507"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TestTask_Headway.TestView.loadEPUB() -&gt; ()"
+                  moduleName = "TestTask_Headway"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/user/Desktop/TestTask_Headway/TestTask_Headway/Modules/ChapterList/Test.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "54"
+                  endingLineNumber = "54"
+                  offsetFromSymbolStart = "1208">
+               </Location>
+               <Location
+                  uuid = "6EDFA49D-045A-433B-AC75-BE2EFD48C2F2 - cd548f1ac2a14524"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TestTask_Headway.TestView.loadEPUB() -&gt; ()"
+                  moduleName = "TestTask_Headway"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/user/Desktop/TestTask_Headway/TestTask_Headway/Modules/ChapterList/Test.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "55"
+                  endingLineNumber = "55"
+                  offsetFromSymbolStart = "1208">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "FC8A99A8-F6C2-4717-AE16-BCB7AD280735"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TestTask_Headway/Modules/ChapterList/Test.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "97"
+            endingLineNumber = "97"
+            landmarkName = "extractTextFromHTML(htmlString:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "FC8A99A8-F6C2-4717-AE16-BCB7AD280735 - 346810e2ced7372f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TestTask_Headway.TestView.extractTextFromHTML(htmlString: Swift.String) -&gt; Swift.String"
+                  moduleName = "TestTask_Headway"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/user/Desktop/TestTask_Headway/TestTask_Headway/Modules/ChapterList/Test.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "97"
+                  endingLineNumber = "97"
+                  offsetFromSymbolStart = "88">
+               </Location>
+               <Location
+                  uuid = "FC8A99A8-F6C2-4717-AE16-BCB7AD280735 - 346810e2ced7372f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TestTask_Headway.TestView.extractTextFromHTML(htmlString: Swift.String) -&gt; Swift.String"
+                  moduleName = "TestTask_Headway"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/user/Desktop/TestTask_Headway/TestTask_Headway/Modules/ChapterList/Test.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "97"
+                  endingLineNumber = "97"
+                  offsetFromSymbolStart = "212">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "0B8B83AE-ECCD-4956-B77A-42B928B14613"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TestTask_Headway/Modules/ChapterList/Test.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "85"
+            endingLineNumber = "85"
+            landmarkName = "loadChapterContent(chapterTitle:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "0B8B83AE-ECCD-4956-B77A-42B928B14613 - 76ce26d1742adb6"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TestTask_Headway.TestView.loadChapterContent(chapterTitle: Swift.String) -&gt; ()"
+                  moduleName = "TestTask_Headway"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/user/Desktop/TestTask_Headway/TestTask_Headway/Modules/ChapterList/Test.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "86"
+                  endingLineNumber = "86"
+                  offsetFromSymbolStart = "2196">
+               </Location>
+               <Location
+                  uuid = "0B8B83AE-ECCD-4956-B77A-42B928B14613 - 76ce26d1742ad97"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TestTask_Headway.TestView.loadChapterContent(chapterTitle: Swift.String) -&gt; ()"
+                  moduleName = "TestTask_Headway"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/user/Desktop/TestTask_Headway/TestTask_Headway/Modules/ChapterList/Test.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "85"
+                  endingLineNumber = "85"
+                  offsetFromSymbolStart = "2008">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "5C36D5E0-B1C7-4C6D-8BF3-C163E43B5E06"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TestTask_Headway/Modules/ChapterList/Test.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "88"
+            endingLineNumber = "88"
+            landmarkName = "loadChapterContent(chapterTitle:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "5C36D5E0-B1C7-4C6D-8BF3-C163E43B5E06 - 76ce26d1742ad74"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TestTask_Headway.TestView.loadChapterContent(chapterTitle: Swift.String) -&gt; ()"
+                  moduleName = "TestTask_Headway"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/user/Desktop/TestTask_Headway/TestTask_Headway/Modules/ChapterList/Test.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "88"
+                  endingLineNumber = "88"
+                  offsetFromSymbolStart = "2360">
+               </Location>
+               <Location
+                  uuid = "5C36D5E0-B1C7-4C6D-8BF3-C163E43B5E06 - 76ce26d1742ad74"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TestTask_Headway.TestView.loadChapterContent(chapterTitle: Swift.String) -&gt; ()"
+                  moduleName = "TestTask_Headway"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/user/Desktop/TestTask_Headway/TestTask_Headway/Modules/ChapterList/Test.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "88"
+                  endingLineNumber = "88"
+                  offsetFromSymbolStart = "2280">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "BB45EEDE-3FDE-4851-BABA-88D498C8D02B"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TestTask_Headway/Modules/ChapterList/Test.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "74"
+            endingLineNumber = "74"
+            landmarkName = "loadChapterContent(chapterTitle:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "C307F33F-C79C-4C77-93A9-073012C3592C"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TestTask_Headway/Modules/ChapterList/Test.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "76"
+            endingLineNumber = "76"
+            landmarkName = "loadChapterContent(chapterTitle:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "C1E4D111-7EEA-4493-A817-C45264CBFA17"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TestTask_Headway/Modules/ChapterList/Test.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "77"
+            endingLineNumber = "77"
+            landmarkName = "loadChapterContent(chapterTitle:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "E749403F-176E-4FE7-82DD-C3ACACDED7BE"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TestTask_Headway/Modules/ChapterList/Test.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "79"
+            endingLineNumber = "79"
+            landmarkName = "loadChapterContent(chapterTitle:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "9AF9460F-A10F-41F8-AF5E-BDA3D389A8F7"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TestTask_Headway/Modules/ChapterList/Test.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "82"
+            endingLineNumber = "82"
+            landmarkName = "loadChapterContent(chapterTitle:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "F602E22A-8E80-451A-95FC-7418DB72910F"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TestTask_Headway/Modules/AudioGeneration/AudioGenerationServiceImp.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "20"
+            endingLineNumber = "20"
+            landmarkName = "textToSpeechGoogle(text:apiKey:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "F602E22A-8E80-451A-95FC-7418DB72910F - 75441c744e0af109"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(1) suspend resume partial function for TestTask_Headway.AudioGenerationServiceImp.textToSpeechGoogle(text: Swift.String, apiKey: Swift.String) async throws -&gt; Foundation.Data"
+                  moduleName = "TestTask_Headway"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/user/Desktop/TestTask_Headway/TestTask_Headway/Modules/AudioGeneration/AudioGenerationServiceImp.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "20"
+                  endingLineNumber = "20"
+                  offsetFromSymbolStart = "124">
+               </Location>
+               <Location
+                  uuid = "F602E22A-8E80-451A-95FC-7418DB72910F - 8002d47b141c8d2b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(2) await resume partial function for TestTask_Headway.AudioGenerationServiceImp.textToSpeechGoogle(text: Swift.String, apiKey: Swift.String) async throws -&gt; Foundation.Data"
+                  moduleName = "TestTask_Headway"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/user/Desktop/TestTask_Headway/TestTask_Headway/Modules/AudioGeneration/AudioGenerationServiceImp.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "20"
+                  endingLineNumber = "20"
+                  offsetFromSymbolStart = "40">
+               </Location>
+               <Location
+                  uuid = "F602E22A-8E80-451A-95FC-7418DB72910F - 9fa2f53df632b50b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for TestTask_Headway.AudioGenerationServiceImp.textToSpeechGoogle(text: Swift.String, apiKey: Swift.String) async throws -&gt; Foundation.Data"
+                  moduleName = "TestTask_Headway"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/user/Desktop/TestTask_Headway/TestTask_Headway/Modules/AudioGeneration/AudioGenerationServiceImp.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "20"
+                  endingLineNumber = "20"
+                  offsetFromSymbolStart = "48">
+               </Location>
+               <Location
+                  uuid = "F602E22A-8E80-451A-95FC-7418DB72910F - 72cc19a25a465b0a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(4) suspend resume partial function for TestTask_Headway.AudioGenerationServiceImp.textToSpeechGoogle(text: Swift.String, apiKey: Swift.String) async throws -&gt; Foundation.Data"
+                  moduleName = "TestTask_Headway"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/user/Desktop/TestTask_Headway/TestTask_Headway/Modules/AudioGeneration/AudioGenerationServiceImp.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "20"
+                  endingLineNumber = "20"
+                  offsetFromSymbolStart = "48">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "340B6D53-0D00-4F38-892D-A4E556832362"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TestTask_Headway/AsyncAwaitNetworking/Provider.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "120"
+            endingLineNumber = "120"
+            landmarkName = "send(builder:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "1B8EC3E1-AD9B-4EAC-B359-7934E87A6086"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TestTask_Headway/AsyncAwaitNetworking/Provider.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "99"
+            endingLineNumber = "99"
+            landmarkName = "generalPerform(builder:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "1A4D3877-A75A-40D5-81DF-89F790466421"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TestTask_Headway/AsyncAwaitNetworking/Provider.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "92"
+            endingLineNumber = "92"
+            landmarkName = "generalPerform(builder:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "7CB0E958-D14A-4080-A29D-C9A05FAE59A8"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TestTask_Headway/AsyncAwaitNetworking/Provider.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "85"
+            endingLineNumber = "85"
+            landmarkName = "generalPerform(builder:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "FF6E8B5B-22C9-4EA5-95C4-E5BC427E2CE6"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TestTask_Headway/AsyncAwaitNetworking/Provider.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "101"
+            endingLineNumber = "101"
+            landmarkName = "generalPerform(builder:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "DFA3EAD5-BD61-4E75-B9EB-9D60BDA181D3"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TestTask_Headway/Modules/AudioGeneration/AudioGenerationAPIBuilder.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "37"
+            endingLineNumber = "37"
+            landmarkName = "body"
+            landmarkType = "24">
+            <Locations>
+               <Location
+                  uuid = "DFA3EAD5-BD61-4E75-B9EB-9D60BDA181D3 - 32ecb73b7477c87f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TestTask_Headway.AudioGenerationAPIBuilder.body.getter : Swift.Optional&lt;Foundation.Data&gt;"
+                  moduleName = "TestTask_Headway"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/user/Desktop/TestTask_Headway/TestTask_Headway/Modules/AudioGeneration/AudioGenerationAPIBuilder.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "35"
+                  endingLineNumber = "35"
+                  offsetFromSymbolStart = "1308">
+               </Location>
+               <Location
+                  uuid = "DFA3EAD5-BD61-4E75-B9EB-9D60BDA181D3 - 32ecb73b7477c87f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TestTask_Headway.AudioGenerationAPIBuilder.body.getter : Swift.Optional&lt;Foundation.Data&gt;"
+                  moduleName = "TestTask_Headway"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/user/Desktop/TestTask_Headway/TestTask_Headway/Modules/AudioGeneration/AudioGenerationAPIBuilder.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "35"
+                  endingLineNumber = "35"
+                  offsetFromSymbolStart = "1324">
+               </Location>
+               <Location
+                  uuid = "DFA3EAD5-BD61-4E75-B9EB-9D60BDA181D3 - 32ecb73b7477c8bd"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TestTask_Headway.AudioGenerationAPIBuilder.body.getter : Swift.Optional&lt;Foundation.Data&gt;"
+                  moduleName = "TestTask_Headway"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/user/Desktop/TestTask_Headway/TestTask_Headway/Modules/AudioGeneration/AudioGenerationAPIBuilder.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "37"
+                  endingLineNumber = "37"
+                  offsetFromSymbolStart = "1324">
+               </Location>
+               <Location
+                  uuid = "DFA3EAD5-BD61-4E75-B9EB-9D60BDA181D3 - 32ecb73b7477c8bd"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TestTask_Headway.AudioGenerationAPIBuilder.body.getter : Swift.Optional&lt;Foundation.Data&gt;"
+                  moduleName = "TestTask_Headway"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/user/Desktop/TestTask_Headway/TestTask_Headway/Modules/AudioGeneration/AudioGenerationAPIBuilder.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "37"
+                  endingLineNumber = "37"
+                  offsetFromSymbolStart = "1308">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "A2297FD7-219C-4DB3-90FA-8306A20DF2A0"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TestTask_Headway/AsyncAwaitNetworking/Protocols/RequestBuilder.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "128"
+            endingLineNumber = "128"
+            landmarkName = "makeRequest(baseURL:plugins:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "A2297FD7-219C-4DB3-90FA-8306A20DF2A0 - eafd080c4266226d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TestTask_Headway.APIRequestBuilder.makeRequestWithoutBody(baseURL: Foundation.URL) -&gt; Foundation.URLRequest"
+                  moduleName = "TestTask_Headway"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/user/Desktop/TestTask_Headway/TestTask_Headway/AsyncAwaitNetworking/Protocols/RequestBuilder.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "126"
+                  endingLineNumber = "126"
+                  offsetFromSymbolStart = "520">
+               </Location>
+               <Location
+                  uuid = "A2297FD7-219C-4DB3-90FA-8306A20DF2A0 - 8d25a7003a5d584c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TestTask_Headway.APIRequestBuilder.makeRequest(baseURL: Foundation.URL, plugins: Swift.Array&lt;TestTask_Headway.Plugin&gt;) -&gt; Foundation.URLRequest"
+                  moduleName = "TestTask_Headway"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/user/Desktop/TestTask_Headway/TestTask_Headway/AsyncAwaitNetworking/Protocols/RequestBuilder.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "125"
+                  endingLineNumber = "125"
+                  offsetFromSymbolStart = "3476">
+               </Location>
+               <Location
+                  uuid = "A2297FD7-219C-4DB3-90FA-8306A20DF2A0 - 8d25a7003a5d58ab"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TestTask_Headway.APIRequestBuilder.makeRequest(baseURL: Foundation.URL, plugins: Swift.Array&lt;TestTask_Headway.Plugin&gt;) -&gt; Foundation.URLRequest"
+                  moduleName = "TestTask_Headway"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/user/Desktop/TestTask_Headway/TestTask_Headway/AsyncAwaitNetworking/Protocols/RequestBuilder.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "126"
+                  endingLineNumber = "126"
+                  offsetFromSymbolStart = "3476">
+               </Location>
+               <Location
+                  uuid = "A2297FD7-219C-4DB3-90FA-8306A20DF2A0 - e23710bf88e1e170"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TestTask_Headway.APIRequestBuilder.makeRequest(baseURL: Foundation.URL, plugins: Swift.Array&lt;TestTask_Headway.Plugin&gt;) -&gt; Foundation.URLRequest"
+                  moduleName = "TestTask_Headway"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/user/Task_Headway/TestTask_Headway/TestTask_Headway/AsyncAwaitNetworking/Protocols/RequestBuilder.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "126"
+                  endingLineNumber = "126"
+                  offsetFromSymbolStart = "3476">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "F75A98C2-FCF0-4155-AC70-884CEDBCF99F"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TestTask_Headway/AsyncAwaitNetworking/Provider.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "90"
+            endingLineNumber = "90"
+            landmarkName = "generalPerform(builder:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "F75A98C2-FCF0-4155-AC70-884CEDBCF99F - dc7e450494f2c80b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(1) suspend resume partial function for TestTask_Headway.Provider.generalPerform(builder: &#x3c4;_0_0) async throws -&gt; Foundation.Data"
+                  moduleName = "TestTask_Headway"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/user/Desktop/TestTask_Headway/TestTask_Headway/AsyncAwaitNetworking/Provider.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "88"
+                  endingLineNumber = "88"
+                  offsetFromSymbolStart = "576">
+               </Location>
+               <Location
+                  uuid = "F75A98C2-FCF0-4155-AC70-884CEDBCF99F - 272d31dcf0f905ea"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(2) await resume partial function for TestTask_Headway.Provider.generalPerform(builder: &#x3c4;_0_0) async throws -&gt; Foundation.Data"
+                  moduleName = "TestTask_Headway"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/user/Desktop/TestTask_Headway/TestTask_Headway/AsyncAwaitNetworking/Provider.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "88"
+                  endingLineNumber = "88"
+                  offsetFromSymbolStart = "40">
+               </Location>
+               <Location
+                  uuid = "F75A98C2-FCF0-4155-AC70-884CEDBCF99F - 6fe04cce2f414007"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for TestTask_Headway.Provider.generalPerform(builder: &#x3c4;_0_0) async throws -&gt; Foundation.Data"
+                  moduleName = "TestTask_Headway"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/user/Desktop/TestTask_Headway/TestTask_Headway/AsyncAwaitNetworking/Provider.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "88"
+                  endingLineNumber = "88"
+                  offsetFromSymbolStart = "80">
+               </Location>
+               <Location
+                  uuid = "F75A98C2-FCF0-4155-AC70-884CEDBCF99F - 16cb5055d13d141d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(6) suspend resume partial function for TestTask_Headway.Provider.generalPerform(builder: &#x3c4;_0_0) async throws -&gt; Foundation.Data"
+                  moduleName = "TestTask_Headway"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/user/Desktop/TestTask_Headway/TestTask_Headway/AsyncAwaitNetworking/Provider.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "88"
+                  endingLineNumber = "88"
+                  offsetFromSymbolStart = "68">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "B5287F0F-FC50-424B-BEB8-3F33DD540D89"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TestTask_Headway/AsyncAwaitNetworking/Provider.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "95"
+            endingLineNumber = "95"
+            landmarkName = "generalPerform(builder:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "C80611D0-6387-46AE-BD4B-F5603ADCB9AB"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TestTask_Headway/AsyncAwaitNetworking/Provider.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "88"
+            endingLineNumber = "88"
+            landmarkName = "generalPerform(builder:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "11CE87C1-F4EA-433E-B4EB-F0EC5099AAD9"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TestTask_Headway/AsyncAwaitNetworking/Protocols/RequestBuilder.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "115"
+            endingLineNumber = "115"
+            landmarkName = "makeRequest(baseURL:plugins:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "11CE87C1-F4EA-433E-B4EB-F0EC5099AAD9 - 8d25a7003a5d5af9"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TestTask_Headway.APIRequestBuilder.makeRequest(baseURL: Foundation.URL, plugins: Swift.Array&lt;TestTask_Headway.Plugin&gt;) -&gt; Foundation.URLRequest"
+                  moduleName = "TestTask_Headway"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/user/Desktop/TestTask_Headway/TestTask_Headway/AsyncAwaitNetworking/Protocols/RequestBuilder.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "112"
+                  endingLineNumber = "112"
+                  offsetFromSymbolStart = "2696">
+               </Location>
+               <Location
+                  uuid = "11CE87C1-F4EA-433E-B4EB-F0EC5099AAD9 - 8d25a7003a5d5af9"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TestTask_Headway.APIRequestBuilder.makeRequest(baseURL: Foundation.URL, plugins: Swift.Array&lt;TestTask_Headway.Plugin&gt;) -&gt; Foundation.URLRequest"
+                  moduleName = "TestTask_Headway"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/user/Desktop/TestTask_Headway/TestTask_Headway/AsyncAwaitNetworking/Protocols/RequestBuilder.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "112"
+                  endingLineNumber = "112"
+                  offsetFromSymbolStart = "1396">
+               </Location>
+               <Location
+                  uuid = "11CE87C1-F4EA-433E-B4EB-F0EC5099AAD9 - 8d25a7003a5d5ad8"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TestTask_Headway.APIRequestBuilder.makeRequest(baseURL: Foundation.URL, plugins: Swift.Array&lt;TestTask_Headway.Plugin&gt;) -&gt; Foundation.URLRequest"
+                  moduleName = "TestTask_Headway"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/user/Desktop/TestTask_Headway/TestTask_Headway/AsyncAwaitNetworking/Protocols/RequestBuilder.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "113"
+                  endingLineNumber = "113"
+                  offsetFromSymbolStart = "1396">
+               </Location>
+               <Location
+                  uuid = "11CE87C1-F4EA-433E-B4EB-F0EC5099AAD9 - e23710bf88e1e3ad"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TestTask_Headway.APIRequestBuilder.makeRequest(baseURL: Foundation.URL, plugins: Swift.Array&lt;TestTask_Headway.Plugin&gt;) -&gt; Foundation.URLRequest"
+                  moduleName = "TestTask_Headway"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/user/Task_Headway/TestTask_Headway/TestTask_Headway/AsyncAwaitNetworking/Protocols/RequestBuilder.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "113"
+                  endingLineNumber = "113"
+                  offsetFromSymbolStart = "1396">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "F98CC456-201D-4B5F-BF2C-72508D4F7777"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TestTask_Headway/AsyncAwaitNetworking/Protocols/RequestBuilder.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "116"
+            endingLineNumber = "116"
+            landmarkName = "makeRequest(baseURL:plugins:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "F98CC456-201D-4B5F-BF2C-72508D4F7777 - 8d25a7003a5d5ad8"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TestTask_Headway.APIRequestBuilder.makeRequest(baseURL: Foundation.URL, plugins: Swift.Array&lt;TestTask_Headway.Plugin&gt;) -&gt; Foundation.URLRequest"
+                  moduleName = "TestTask_Headway"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/user/Desktop/TestTask_Headway/TestTask_Headway/AsyncAwaitNetworking/Protocols/RequestBuilder.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "113"
+                  endingLineNumber = "113"
+                  offsetFromSymbolStart = "3160">
+               </Location>
+               <Location
+                  uuid = "F98CC456-201D-4B5F-BF2C-72508D4F7777 - 8d25a7003a5d5ad8"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TestTask_Headway.APIRequestBuilder.makeRequest(baseURL: Foundation.URL, plugins: Swift.Array&lt;TestTask_Headway.Plugin&gt;) -&gt; Foundation.URLRequest"
+                  moduleName = "TestTask_Headway"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/user/Desktop/TestTask_Headway/TestTask_Headway/AsyncAwaitNetworking/Protocols/RequestBuilder.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "113"
+                  endingLineNumber = "113"
+                  offsetFromSymbolStart = "1736">
+               </Location>
+               <Location
+                  uuid = "F98CC456-201D-4B5F-BF2C-72508D4F7777 - 8d25a7003a5d5927"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TestTask_Headway.APIRequestBuilder.makeRequest(baseURL: Foundation.URL, plugins: Swift.Array&lt;TestTask_Headway.Plugin&gt;) -&gt; Foundation.URLRequest"
+                  moduleName = "TestTask_Headway"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/user/Desktop/TestTask_Headway/TestTask_Headway/AsyncAwaitNetworking/Protocols/RequestBuilder.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "114"
+                  endingLineNumber = "114"
+                  offsetFromSymbolStart = "1736">
+               </Location>
+               <Location
+                  uuid = "F98CC456-201D-4B5F-BF2C-72508D4F7777 - e23710bf88e1e38c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TestTask_Headway.APIRequestBuilder.makeRequest(baseURL: Foundation.URL, plugins: Swift.Array&lt;TestTask_Headway.Plugin&gt;) -&gt; Foundation.URLRequest"
+                  moduleName = "TestTask_Headway"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/user/Task_Headway/TestTask_Headway/TestTask_Headway/AsyncAwaitNetworking/Protocols/RequestBuilder.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "114"
+                  endingLineNumber = "114"
+                  offsetFromSymbolStart = "1736">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "A9A3B86D-9E46-4CD1-90BA-2BE63F461ACB"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TestTask_Headway/AsyncAwaitNetworking/Protocols/RequestBuilder.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "126"
+            endingLineNumber = "126"
+            landmarkName = "makeRequest(baseURL:plugins:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "A9A3B86D-9E46-4CD1-90BA-2BE63F461ACB - 8d25a7003a5d580e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TestTask_Headway.APIRequestBuilder.makeRequest(baseURL: Foundation.URL, plugins: Swift.Array&lt;TestTask_Headway.Plugin&gt;) -&gt; Foundation.URLRequest"
+                  moduleName = "TestTask_Headway"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/user/Desktop/TestTask_Headway/TestTask_Headway/AsyncAwaitNetworking/Protocols/RequestBuilder.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "123"
+                  endingLineNumber = "123"
+                  offsetFromSymbolStart = "3404">
+               </Location>
+               <Location
+                  uuid = "A9A3B86D-9E46-4CD1-90BA-2BE63F461ACB - 8d25a7003a5d586d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TestTask_Headway.APIRequestBuilder.makeRequest(baseURL: Foundation.URL, plugins: Swift.Array&lt;TestTask_Headway.Plugin&gt;) -&gt; Foundation.URLRequest"
+                  moduleName = "TestTask_Headway"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/user/Desktop/TestTask_Headway/TestTask_Headway/AsyncAwaitNetworking/Protocols/RequestBuilder.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "124"
+                  endingLineNumber = "124"
+                  offsetFromSymbolStart = "3404">
+               </Location>
+               <Location
+                  uuid = "A9A3B86D-9E46-4CD1-90BA-2BE63F461ACB - e23710bf88e1e132"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TestTask_Headway.APIRequestBuilder.makeRequest(baseURL: Foundation.URL, plugins: Swift.Array&lt;TestTask_Headway.Plugin&gt;) -&gt; Foundation.URLRequest"
+                  moduleName = "TestTask_Headway"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/user/Task_Headway/TestTask_Headway/TestTask_Headway/AsyncAwaitNetworking/Protocols/RequestBuilder.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "124"
+                  endingLineNumber = "124"
+                  offsetFromSymbolStart = "3404">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "0541E080-C36E-4E6A-9C2F-6CFF72760292"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TestTask_Headway/AsyncAwaitNetworking/Protocols/RequestBuilder.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "87"
+            endingLineNumber = "87"
+            landmarkName = "makeRequest(baseURL:plugins:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "C9C4A50F-FA82-46BE-966E-A9E825C07961"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TestTask_Headway/AsyncAwaitNetworking/Protocols/RequestBuilder.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "88"
+            endingLineNumber = "88"
+            landmarkName = "makeRequest(baseURL:plugins:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "F12A0438-8CE2-4C90-8233-1918DC709CF0"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TestTask_Headway/Modules/ChapterList/Test/Test.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "55"
+            endingLineNumber = "55"
+            landmarkName = "loadEPUB()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "7BDC2EFB-6AB1-4F07-8D58-33222DD1A7D9"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TestTask_Headway/Modules/AudioGeneration/ChapterFetcher.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "81"
+            endingLineNumber = "81"
+            landmarkName = "loadBook(from:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "7BDC2EFB-6AB1-4F07-8D58-33222DD1A7D9 - 55b709b145c754bb"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 ((Swift.Result&lt;TestTask_Headway.BookModel, Swift.Error&gt;) -&gt; ()) -&gt; () in TestTask_Headway.BookFetcher.loadBook(from: Foundation.URL) -&gt; Combine.AnyPublisher&lt;TestTask_Headway.BookModel, Swift.Error&gt;"
+                  moduleName = "TestTask_Headway"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/user/Desktop/TestTask_Headway/TestTask_Headway/Modules/AudioGeneration/ChapterFetcher.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "82"
+                  endingLineNumber = "82"
+                  offsetFromSymbolStart = "3032">
+               </Location>
+               <Location
+                  uuid = "7BDC2EFB-6AB1-4F07-8D58-33222DD1A7D9 - 55b709b145c75498"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 ((Swift.Result&lt;TestTask_Headway.BookModel, Swift.Error&gt;) -&gt; ()) -&gt; () in TestTask_Headway.BookFetcher.loadBook(from: Foundation.URL) -&gt; Combine.AnyPublisher&lt;TestTask_Headway.BookModel, Swift.Error&gt;"
+                  moduleName = "TestTask_Headway"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/user/Desktop/TestTask_Headway/TestTask_Headway/Modules/AudioGeneration/ChapterFetcher.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "81"
+                  endingLineNumber = "81"
+                  offsetFromSymbolStart = "2904">
+               </Location>
+               <Location
+                  uuid = "7BDC2EFB-6AB1-4F07-8D58-33222DD1A7D9 - 55b709b145c75498"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 ((Swift.Result&lt;TestTask_Headway.BookModel, Swift.Error&gt;) -&gt; ()) -&gt; () in TestTask_Headway.BookFetcher.loadBook(from: Foundation.URL) -&gt; Combine.AnyPublisher&lt;TestTask_Headway.BookModel, Swift.Error&gt;"
+                  moduleName = "TestTask_Headway"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/user/Desktop/TestTask_Headway/TestTask_Headway/Modules/AudioGeneration/ChapterFetcher.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "81"
+                  endingLineNumber = "81"
+                  offsetFromSymbolStart = "3180">
+               </Location>
+               <Location
+                  uuid = "7BDC2EFB-6AB1-4F07-8D58-33222DD1A7D9 - 55b709b145c7541c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 ((Swift.Result&lt;TestTask_Headway.BookModel, Swift.Error&gt;) -&gt; ()) -&gt; () in TestTask_Headway.BookFetcher.loadBook(from: Foundation.URL) -&gt; Combine.AnyPublisher&lt;TestTask_Headway.BookModel, Swift.Error&gt;"
+                  moduleName = "TestTask_Headway"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/user/Desktop/TestTask_Headway/TestTask_Headway/Modules/AudioGeneration/ChapterFetcher.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "85"
+                  endingLineNumber = "85"
+                  offsetFromSymbolStart = "3488">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "F36AAAE1-E824-4EAE-925E-5BA2D0619500"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TestTask_Headway/Modules/AudioGeneration/ChapterFetcher.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "53"
+            endingLineNumber = "53"
+            landmarkName = "loadBook(from:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "F36AAAE1-E824-4EAE-925E-5BA2D0619500 - 55b709b145c751e0"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 ((Swift.Result&lt;TestTask_Headway.BookModel, Swift.Error&gt;) -&gt; ()) -&gt; () in TestTask_Headway.BookFetcher.loadBook(from: Foundation.URL) -&gt; Combine.AnyPublisher&lt;TestTask_Headway.BookModel, Swift.Error&gt;"
+                  moduleName = "TestTask_Headway"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/user/Desktop/TestTask_Headway/TestTask_Headway/Modules/AudioGeneration/ChapterFetcher.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "57"
+                  endingLineNumber = "57"
+                  offsetFromSymbolStart = "2424">
+               </Location>
+               <Location
+                  uuid = "F36AAAE1-E824-4EAE-925E-5BA2D0619500 - da5ae88ffc7ae975"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Int, EPUBKit.EPUBTableOfContents) -&gt; Swift.Optional&lt;TestTask_Headway.ChapterModel&gt; in closure #1 ((Swift.Result&lt;TestTask_Headway.BookModel, Swift.Error&gt;) -&gt; ()) -&gt; () in TestTask_Headway.BookFetcher.loadBook(from: Foundation.URL) -&gt; Combine.AnyPublisher&lt;TestTask_Headway.BookModel, Swift.Error&gt;"
+                  moduleName = "TestTask_Headway"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/user/Desktop/TestTask_Headway/TestTask_Headway/Modules/AudioGeneration/ChapterFetcher.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "58"
+                  endingLineNumber = "58"
+                  offsetFromSymbolStart = "432">
+               </Location>
+               <Location
+                  uuid = "F36AAAE1-E824-4EAE-925E-5BA2D0619500 - da5ae88ffc7ae916"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Int, EPUBKit.EPUBTableOfContents) -&gt; Swift.Optional&lt;TestTask_Headway.ChapterModel&gt; in closure #1 ((Swift.Result&lt;TestTask_Headway.BookModel, Swift.Error&gt;) -&gt; ()) -&gt; () in TestTask_Headway.BookFetcher.loadBook(from: Foundation.URL) -&gt; Combine.AnyPublisher&lt;TestTask_Headway.BookModel, Swift.Error&gt;"
+                  moduleName = "TestTask_Headway"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/user/Desktop/TestTask_Headway/TestTask_Headway/Modules/AudioGeneration/ChapterFetcher.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "57"
+                  endingLineNumber = "57"
+                  offsetFromSymbolStart = "2328">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "2BBEE8FD-7F35-4ADB-99A9-23BE712E6B6E"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TestTask_Headway/Modules/AudioGeneration/ChapterFetcher.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "137"
+            endingLineNumber = "137"
+            landmarkName = "textToSpeechPublisher(text:chapterNumber:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "2BBEE8FD-7F35-4ADB-99A9-23BE712E6B6E - e04eba950477bc03"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(1) suspend resume partial function for closure #1 @Sendable () async -&gt; () in closure #1 ((Swift.Result&lt;(Swift.String, Foundation.Data), Swift.Error&gt;) -&gt; ()) -&gt; () in TestTask_Headway.BookFetcher.textToSpeechPublisher(text: Swift.String, chapterNumber: Swift.String) -&gt; Combine.AnyPublisher&lt;(Swift.String, Foundation.Data), Swift.Error&gt;"
+                  moduleName = "TestTask_Headway"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/user/Desktop/TestTask_Headway/TestTask_Headway/Modules/AudioGeneration/ChapterFetcher.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "141"
+                  endingLineNumber = "141"
+                  offsetFromSymbolStart = "2288">
+               </Location>
+               <Location
+                  uuid = "2BBEE8FD-7F35-4ADB-99A9-23BE712E6B6E - c1fd0b06ea594005"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for closure #1 @Sendable () async -&gt; () in closure #1 ((Swift.Result&lt;(Swift.String, Foundation.Data), Swift.Error&gt;) -&gt; ()) -&gt; () in TestTask_Headway.BookFetcher.textToSpeechPublisher(text: Swift.String, chapterNumber: Swift.String) -&gt; Combine.AnyPublisher&lt;(Swift.String, Foundation.Data), Swift.Error&gt;"
+                  moduleName = "TestTask_Headway"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/user/Desktop/TestTask_Headway/TestTask_Headway/Modules/AudioGeneration/ChapterFetcher.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "141"
+                  endingLineNumber = "141"
+                  offsetFromSymbolStart = "1892">
+               </Location>
+               <Location
+                  uuid = "2BBEE8FD-7F35-4ADB-99A9-23BE712E6B6E - e04eba950477bf87"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(1) suspend resume partial function for closure #1 @Sendable () async -&gt; () in closure #1 ((Swift.Result&lt;(Swift.String, Foundation.Data), Swift.Error&gt;) -&gt; ()) -&gt; () in TestTask_Headway.BookFetcher.textToSpeechPublisher(text: Swift.String, chapterNumber: Swift.String) -&gt; Combine.AnyPublisher&lt;(Swift.String, Foundation.Data), Swift.Error&gt;"
+                  moduleName = "TestTask_Headway"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/user/Desktop/TestTask_Headway/TestTask_Headway/Modules/AudioGeneration/ChapterFetcher.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "137"
+                  endingLineNumber = "137"
+                  offsetFromSymbolStart = "2288">
+               </Location>
+               <Location
+                  uuid = "2BBEE8FD-7F35-4ADB-99A9-23BE712E6B6E - c1fd0b06ea594381"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for closure #1 @Sendable () async -&gt; () in closure #1 ((Swift.Result&lt;(Swift.String, Foundation.Data), Swift.Error&gt;) -&gt; ()) -&gt; () in TestTask_Headway.BookFetcher.textToSpeechPublisher(text: Swift.String, chapterNumber: Swift.String) -&gt; Combine.AnyPublisher&lt;(Swift.String, Foundation.Data), Swift.Error&gt;"
+                  moduleName = "TestTask_Headway"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/user/Desktop/TestTask_Headway/TestTask_Headway/Modules/AudioGeneration/ChapterFetcher.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "137"
+                  endingLineNumber = "137"
+                  offsetFromSymbolStart = "1892">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "09886212-5309-4955-8D77-9109DCCD280D"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TestTask_Headway/Modules/ChapterList/Test/Test1.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "19"
+            endingLineNumber = "19"
+            landmarkName = "unknown"
+            landmarkType = "0">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "83C4CEC2-A194-4DD0-86EF-96BAFA8D3459"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TestTask_Headway/Modules/ContentView/BookPreview/BookView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "48"
+            endingLineNumber = "48"
+            landmarkName = "body"
+            landmarkType = "24">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "7C653A35-1C6E-48C8-A6F2-80C10F507362"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TestTask_Headway/Modules/ContentView/BookPreview/BookViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "44"
+            endingLineNumber = "44"
+            landmarkName = "fetchBook(url:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "9A32C179-A57B-40C2-ABB4-6927376AD0BA"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TestTask_Headway/Modules/ContentView/BookPreview/BookViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "49"
+            endingLineNumber = "49"
+            landmarkName = "fetchBook(url:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "7844774A-7850-4143-AF8E-379D382EB0C9"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TestTask_Headway/Modules/ContentView/BookPreview/BookViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "87"
+            endingLineNumber = "87"
+            landmarkName = "fetchAudioChapters()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "85B04C4F-533E-414E-A342-01145C4184B2"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TestTask_Headway/Modules/ContentView/BookPreview/BookViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "88"
+            endingLineNumber = "88"
+            landmarkName = "fetchAudioChapters()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "CBEBCFAF-77A7-426B-86CB-5E8228CE7866"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TestTask_Headway/Modules/ContentView/BookPreview/BookViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "80"
+            endingLineNumber = "80"
+            landmarkName = "fetchAudioChapters()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "1F1D4C3B-7133-447C-8DB5-F72D706B308F"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TestTask_Headway/Modules/BookPreview/BookViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "43"
+            endingLineNumber = "43"
+            landmarkName = "fetchBookWith(url:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "1F1D4C3B-7133-447C-8DB5-F72D706B308F - 7f027595780899a7"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for closure #1 @Sendable () async -&gt; () in TestTask_Headway.BookViewModel.fetchBookWith(url: Foundation.URL) -&gt; ()"
+                  moduleName = "TestTask_Headway"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/user/Task_Headway/TestTask_Headway/TestTask_Headway/Modules/BookPreview/BookViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "52"
+                  endingLineNumber = "52"
+                  offsetFromSymbolStart = "152">
+               </Location>
+               <Location
+                  uuid = "1F1D4C3B-7133-447C-8DB5-F72D706B308F - bfd83c57085a3ece"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Swift.MainActor @Sendable () -&gt; () in closure #1 @Sendable () async -&gt; () in TestTask_Headway.BookViewModel.fetchBookWith(url: Foundation.URL) -&gt; ()"
+                  moduleName = "TestTask_Headway"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/user/Task_Headway/TestTask_Headway/TestTask_Headway/Modules/BookPreview/BookViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "53"
+                  endingLineNumber = "53"
+                  offsetFromSymbolStart = "172">
+               </Location>
+               <Location
+                  uuid = "1F1D4C3B-7133-447C-8DB5-F72D706B308F - ae65fba89ed1c5a5"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(1) suspend resume partial function for closure #1 @Sendable () async -&gt; () in TestTask_Headway.BookViewModel.fetchBookWith(url: Foundation.URL) -&gt; ()"
+                  moduleName = "TestTask_Headway"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/user/Task_Headway/TestTask_Headway/TestTask_Headway/Modules/BookPreview/BookViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "52"
+                  endingLineNumber = "52"
+                  offsetFromSymbolStart = "88">
+               </Location>
+               <Location
+                  uuid = "1F1D4C3B-7133-447C-8DB5-F72D706B308F - b90b4c276ad1a4bf"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(2) await resume partial function for closure #1 @Sendable () async -&gt; () in TestTask_Headway.BookViewModel.fetchBookWith(url: Foundation.URL) -&gt; ()"
+                  moduleName = "TestTask_Headway"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/user/Task_Headway/TestTask_Headway/TestTask_Headway/Modules/BookPreview/BookViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "52"
+                  endingLineNumber = "52"
+                  offsetFromSymbolStart = "36">
+               </Location>
+               <Location
+                  uuid = "1F1D4C3B-7133-447C-8DB5-F72D706B308F - 7f027595780899a7"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for closure #1 @Sendable () async -&gt; () in TestTask_Headway.BookViewModel.fetchBookWith(url: Foundation.URL) -&gt; ()"
+                  moduleName = "TestTask_Headway"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/user/Task_Headway/TestTask_Headway/TestTask_Headway/Modules/BookPreview/BookViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "52"
+                  endingLineNumber = "52"
+                  offsetFromSymbolStart = "116">
+               </Location>
+               <Location
+                  uuid = "1F1D4C3B-7133-447C-8DB5-F72D706B308F - 9892b36c06df3ba6"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(4) suspend resume partial function for closure #1 @Sendable () async -&gt; () in TestTask_Headway.BookViewModel.fetchBookWith(url: Foundation.URL) -&gt; ()"
+                  moduleName = "TestTask_Headway"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/user/Task_Headway/TestTask_Headway/TestTask_Headway/Modules/BookPreview/BookViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "52"
+                  endingLineNumber = "52"
+                  offsetFromSymbolStart = "76">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
